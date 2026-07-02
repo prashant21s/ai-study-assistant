@@ -1,0 +1,12 @@
+
+> ai-study-assistant-client@1.0.0 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v6.4.3[39m  [2mready in [0m[1m371[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m11:34:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/CodeExplain.jsx, /src/pages/Notes.jsx, /src/pages/History.jsx, /src/pages/Chat.jsx[22m
+[2m11:34:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx[22m
+[2m12:01:55 am[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m12:01:56 am[22m [36m[1m[vite][22m[39m server restarted.
